@@ -1,0 +1,9 @@
+# Environment
+.env
+
+# Backups
+backups/
+
+# Docker volumes
+postgres_data/
+n8n_data/
